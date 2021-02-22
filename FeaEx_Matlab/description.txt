@@ -1,1 +1,1 @@
-
+This folder contains the mathlab source code to segment the gait data.
