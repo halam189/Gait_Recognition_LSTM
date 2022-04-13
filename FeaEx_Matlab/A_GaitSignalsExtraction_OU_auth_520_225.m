@@ -9,9 +9,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 clear all;
 
-addpath('funcProcessingExtract');	%folder contains main functions for processing raw gait data
-
-
 nTraining_user = 520; 
 rOverlap = 0.97;
 data_length = 100;
