@@ -14,7 +14,6 @@
 
 % 98 - 20
 
-addpath('funcProcessingExtract');	%folder contains main functions for processing raw gait data
 
 clear all;
 dataPath = '..\\Dataset\\raw_data\\WHU_data\\';
